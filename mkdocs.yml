@@ -1,0 +1,12 @@
+site_name: 文档部署实践
+site_description: 用 MkDocs 写文档，由 GitHub Actions 构建并发布到 GitHub Pages
+site_url: https://shizi-shizi.github.io/my-docs/
+repo_url: https://github.com/shizi-shizi/my-docs
+theme:
+  name: material
+  language: zh
+nav:
+  - 首页: index.md
+  - 项目说明: about.md
+  - 操作步骤: guide.md
+  - 接口示例: api.md
