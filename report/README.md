@@ -13,9 +13,7 @@
 
 ### 2.1 仓库创建
 
-- 操作：创建公开仓库 `my-docs`，Owner 为本账号，默认分支 `main`，勾选生成 README，克隆到本地。
-- 说明：仓库需公开才能通过 Pages 对外访问；默认分支设为 `main`，与工作流中 `branches: [main]` 的配置一致。
-- 结果：仓库首页显示所有者、仓库名和 Public 标识。
+创建公开仓库 `my-docs`，Owner 为本账号，默认分支 `main`，克隆到本地
 
 ![个人公开仓库首页](images/01-repository.png)
 
